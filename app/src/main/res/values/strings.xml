@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ACheckBoxColorsRGB1</string>
+    <string name="select_colors">Виберіть кольори:</string>
+    <string name="red_color">Червоний</string>
+    <string name="green_color">Зелений</string>
+    <string name="blue_color">Синій</string>
+</resources>
